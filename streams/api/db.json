@@ -1,0 +1,20 @@
+{
+  "streams": [
+    {
+      "title": "first stream",
+      "description": "super tare",
+      "id": 1
+    },
+    {
+      "title": "second stream",
+      "description": "awesome",
+      "id": 2
+    },
+    {
+      "title": "new stream",
+      "description": "third time",
+      "userId": "103676217934385158035",
+      "id": 3
+    }
+  ]
+}
